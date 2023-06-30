@@ -12,6 +12,7 @@ Welcome to the Todo List application! This simple web app allows you to manage y
 ## Technologies Used
 
 - ReactJS
+- TypeScript
 - styled-components
 - Local Storage API
 
